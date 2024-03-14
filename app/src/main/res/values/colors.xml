@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="color_worst_tip">#E82410</color>
+    <color name="color_best_tip">#42C811</color>
+    <color name="aquamarine">#7fffd4</color>
+
+
 </resources>
